@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Voice",
+  "description": "Iron Man style J.A.R.V.I.S. AI voice assistant with live speech chat, holographic 3D Arc Reactor HUD, Stark Protocols, optical camera scanner, and 8 HUD themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
